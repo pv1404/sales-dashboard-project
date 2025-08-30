@@ -45,7 +45,7 @@ Scikit-learn: For building the sales forecasting model (Linear Regression).
 How to Run This Project Locally
 Clone the repository:
 
-git clone [https://github.com/your-username/sales-dashboard.git](https://github.com/your-username/sales-dashboard.git)
+git clone [https://github.com/your-username/sales-dashboard.git]([https://github.com/your-username/sales-dashboard.git](https://github.com/pv1404/sales-dashboard-project/blob/main/README.md))
 cd sales-dashboard
 
 Create a virtual environment (recommended):
