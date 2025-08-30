@@ -1,10 +1,12 @@
 Interactive Sales Performance & Forecasting Dashboard
-[Live Demo Link (Deploy your app on Streamlit Community Cloud and add the link here)]
+Live Demo Link (https://sales-dashboard-project-m7erjuxko7n6zagngx8ion.streamlit.app/)
 This project analyzes historical sales data to identify key performance trends and builds a forecasting model to predict future sales. The goal is to provide actionable insights for business leaders through an interactive, easy-to-use dashboard built with Streamlit.
 
 This project is designed to showcase skills in data analysis, data visualization, and predictive modeling, directly aligning with the requirements for a strategy and operations role.
 
-Dashboard Preview
+Dashboard Preview:
+<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/d5deb19b-8718-484a-8be4-ea1cbf534e30" />
+
 A snapshot of the main dashboard, showing key KPIs and interactive charts.
 
 Key Features
